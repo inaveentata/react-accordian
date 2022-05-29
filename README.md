@@ -1,6 +1,6 @@
-### React accordian
+# React accordian
 Check out [here]() to see the deployed project
 
 
-## Built With
+### Built With
 -Used react-icons
